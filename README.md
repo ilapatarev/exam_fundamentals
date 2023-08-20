@@ -1,2 +1,3 @@
-# exam_fundamentals
-exam_fundamentals - preparation for exam
+# exam_fundamentals - SoftUni
+exam_fundamentals - preparation for exam.
+SoftUni.
